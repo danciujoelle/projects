@@ -1,0 +1,142 @@
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Project_client_template.dll.config
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Project_client_template.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Project_client_template.pdb
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csc.exe
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csc.exe.config
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csc.rsp
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csi.exe
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csi.exe.config
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\csi.rsp
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.AppContext.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Console.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Claims.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\vbc.exe
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\vbc.exe.config
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\vbc.rsp
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Antlr3.Runtime.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Newtonsoft.Json.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\System.Web.Optimization.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\WebGrease.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\System.Web.Optimization.xml
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Newtonsoft.Json.xml
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Antlr3.Runtime.pdb
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csprojAssemblyReference.cache
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csproj.CoreCompileInputs.cache
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csproj.CopyComplete
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\obj\Debug\Project_client_template.dll
+C:\Users\Andreia\Source\Repos\Project_client_template\Project_client_template\obj\Debug\Project_client_template.pdb
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Project_client_template.dll.config
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Project_client_template.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Project_client_template.pdb
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csc.exe
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csc.exe.config
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csc.rsp
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csi.exe
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csi.exe.config
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\csi.rsp
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.Managed.Core.targets
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.AppContext.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Collections.Immutable.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Console.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.IO.Compression.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.IO.FileSystem.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.IO.Pipes.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Reflection.Metadata.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.AccessControl.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Claims.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Security.Principal.Windows.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.ValueTuple.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XmlDocument.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XPath.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\vbc.exe
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\vbc.exe.config
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\vbc.rsp
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\VBCSCompiler.exe
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\roslyn\VBCSCompiler.exe.config
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Antlr3.Runtime.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\AspNet.ScriptManager.bootstrap.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\AspNet.ScriptManager.jQuery.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.ScriptManager.WebForms.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.Web.Infrastructure.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Newtonsoft.Json.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\System.Web.Optimization.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\WebGrease.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\System.Web.Optimization.xml
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Newtonsoft.Json.xml
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Antlr3.Runtime.pdb
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csprojAssemblyReference.cache
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csproj.CoreCompileInputs.cache
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\obj\Debug\Project_client_template.csproj.CopyComplete
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\obj\Debug\Project_client_template.dll
+D:\an3danciujoelle\SEMESTRUL2\II\PROJECT\Project II\Project II\Project_client_template\Project_client_template\obj\Debug\Project_client_template.pdb
